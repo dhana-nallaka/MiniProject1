@@ -12,3 +12,9 @@ It is the combination of \
 3.Atleast one number\
 4.One Special Character\
 5.It is of length of 8 characters😁
+
+**Readable Password**\
+1.Readable Word\
+2.One Special Character\
+3.two random numbers\
+Here the readable word is extracted from the readabletext.txt file and readable password is obtained.
