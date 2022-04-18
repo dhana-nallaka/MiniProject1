@@ -2,7 +2,7 @@ import cv2
 
 #to load classifier haarcascade_frontalface_default.xml
 detect=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
-imp_img=cv2.VideoCapture('mark1.jpg')#Imported Image
+imp_img=cv2.VideoCapture('mark.jpg')#Imported Image
 #read() returns 2 values True and False
 #res-->First is true or false if the image is read it returns true else it returns false
 #Img-->Second return value is the pixel dimensions of the image(Storing Image Coordinates)
