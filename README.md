@@ -1,5 +1,5 @@
-# Collection Of Python Projects
-Collection of Various Python Projects that were coded by Dhana Nallaka🤍<br/>
+# Collection Of Python Projects<br/><br/>
+Collection of Various Python Projects that were coded by **Dhana Nallaka🤍**<br/>
 <br/>
 
 **Project 1: Face Detection using OpenCV<br/>
